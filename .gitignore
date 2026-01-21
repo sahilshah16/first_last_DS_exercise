@@ -14,3 +14,6 @@ __pycache__/
 # Generated data
 data/raw/
 data/processed/
+
+#Logs
+logs/
