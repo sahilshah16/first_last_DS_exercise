@@ -56,6 +56,11 @@ pawsible_apparel/
 ├── logs/              # Execution logs
 └── requirements.txt   # Python dependencies
 ```
+**Q1 Results:** Largest product by dimensions is **P0621** (volume: 1,600,000 cubic units), which generated **$40,732.23** in revenue during 2018.
+
+**Q2 Results:** City **C014** produced the highest revenue in 2018 with **$4,448,620.88** in total sales.
+
+**Q3 Results:** Product **P0185** had the most stockout days in 2019, being unavailable in at least one store for **363 days** (99.5% of the year). This indicates severe inventory management issues requiring immediate attention.
 
 **Q4 Results:** Strong **negative correlation** between store size and sales (Pearson: -0.51, p < 0.001). Smaller stores actually generate more sales than larger stores. This relationship is statistically significant and consistent across all years (2017-2019), with correlation strengthening over time (-0.48 → -0.57). Spearman correlation (-0.73) suggests a strong monotonic relationship. **Key insight:** Store size is NOT a positive driver of sales; smaller, more efficient stores outperform larger ones.
 
