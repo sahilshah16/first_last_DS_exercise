@@ -1,8 +1,8 @@
 import os
 import pandas as pd
-from config import ALL_SALES_CSV, PRODUCT_HIERARCHY_CSV, STORE_CITIES_CSV
-from exception import CustomException
-from logger import logging
+from src.config import ALL_SALES_CSV, PRODUCT_HIERARCHY_CSV, STORE_CITIES_CSV
+from src.exception import CustomException
+from src.logger import logging
 
 class DataLoader:
     """
